@@ -424,7 +424,7 @@
         "price": 13999
     },
     {
-        "name": "SAMSUNG Galaxy F14 5G (OMG Black,128 GB)",
+        "name": "SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",
         "description": "SAMSUNG Galaxy F14 5G (OMG Black, 128 GB)",
         "productImg": "mobile (52).jpeg",
         "rating": 4.3,
@@ -440,16 +440,16 @@
         "price": 18999
     },
     {
-        "name": "vivo T2x 5G (Aurora Gold, 4 GB 128 GB)",
-        "description": "vivo T2x 5G (Aurora Gold, 128 GB Storage 4 GB RAM)",
+        "name": "vivo T2x 5G (Aurora Gold, 128 GB)",
+        "description": "vivo T2x 5G (Aurora Gold, 128 GB)",
         "productImg": "mobile (55).jpeg",
         "rating": 4.6,
         "category":"mobile",
         "price": 17999
     },
     {
-        "name": "vivo T2x 5G (Aurora Gold, 8 GB 128 GB)",
-        "description": "vivo T2x 5G (Aurora Gold, 128 GB Storage 8 GB RAM)",
+        "name": "vivo T2x 5G (Aurora Gold, 128 GB)",
+        "description": "vivo T2x 5G (Aurora Gold, 128 GB)",
         "productImg": "mobile (55).jpeg",
         "rating": 4.6,
         "category":"mobile",
@@ -464,16 +464,16 @@
         "price": 18999
     },
     {
-        "name": "vivo T3x 5G (Crimson Bliss, 128 GB 4 GB RAM)",
-        "description": "vivo T3x 5G (Crimson Bliss, 128 GB Storage 4 GB RAM)",
+        "name": "vivo T3x 5G (Crimson Bliss, 128 GB)",
+        "description": "vivo T3x 5G (Crimson Bliss, 128 GB)",
         "productImg": "mobile (56).jpeg",
         "rating": 4.5,
         "category":"mobile",
         "price": 14499
     },
     {
-        "name": "vivo T3x 5G (Crimson Bliss, 128 GB 8GB RAM)",
-        "description": "vivo T3x 5G (Crimson Bliss, 128 GB storage 8 GB RAM)",
+        "name": "vivo T3x 5G (Crimson Bliss, 128 GB)",
+        "description": "vivo T3x 5G (Crimson Bliss, 128 GB)",
         "productImg": "mobile (56).jpeg",
         "rating": 4.5,
         "category":"mobile",
@@ -1041,7 +1041,7 @@
         "price": 2499
       },
       {
-        "name": "Printed Women Round-Neck T-Shirt",
+        "name": "Printed Women Round Neck T-Shirt",
         "description": "Printed Women Round Neck Pure Cotton Multicolor T-Shirt",
         "productImg": "dyxnev3gw.jpeg",
         "rating": 4.5,
@@ -1553,7 +1553,7 @@
         "price": 3314
       },
       {
-        "name": "Engineered Wood TV Entertainment Unit",
+        "name": "Engineered Wood TV Unit",
         "description": "icrush Engineered Wood TV Entertainment Unit  (Finish Color - Brown, DIY(Do-It-Yourself))",
         "productImg": "20-80-mdf-8-a1-i.jpeg",
         "rating": 4.2,
@@ -1652,7 +1652,7 @@
         "name": "Classic Essentials Lunch Box Set",
         "description": "Classic Essentials Lunch Box Set of 6 | 3 Microwave Safe Container with Bottle, Bag & Cutlery| 4 Containers Lunch Box  (1250 ml, Thermoware)",
         "productImg": "1250-lunch-box-sest.jpeg",
-        "rating": 4.4,
+        "rating": 4.3,
         "category": "home&furniture",
         "price": 599
       },
@@ -1953,7 +1953,7 @@
         "price": 1499
       },
       {
-        "name": "Women Regular Fit Solid Spread Collar Casual-Shirt",
+        "name": "Women Regular Fit Solid Spread Collar Casual Shirt",
         "description": "Women Regular Fit Solid Spread Collar Casual Shirt",
         "productImg": "xl-syswefsnxa.jpeg",
         "rating": 4,
@@ -2033,7 +2033,7 @@
         "price": 1899
       },
       {
-        "name": "Women Pink-Heels Sandal",
+        "name": "Women Pink Heels Sandal",
         "description": "Women Pink Heels Sandal",
         "productImg": "4-z-a-0wrgafz2ap.jpeg",
         "rating": 3.5,
@@ -2087,6 +2087,246 @@
         "rating": 4.5,
         "category": "fashion-women",
         "price": 1899
+      },
+      {
+        "name": "LOTUS HERBALS WhiteGlow Skin Whitening And Brightening Gel",
+        "description": "LOTUS HERBALS WhiteGlow Skin Whitening And Brightening Gel, Face Cream with SPF-25, for all skin types  (40 g)",
+        "productImg": "whiteglowuar37.jpeg",
+        "rating": 3.4,
+        "category": "beauty",
+        "price": 320
+      },
+      {
+        "name": "USTRAA Total De-Tan Kit | De-Tan Scrub - 100 g",
+        "description": "USTRAA Total De-Tan Kit | De-Tan Scrub - 100 g | De-Tan Cream - 50 g  (2 Items in the set)",
+        "productImg": "total-decf9vpmg7qw.jpeg",
+        "rating": 4,
+        "category": "beauty",
+        "price": 698
+      },
+      {
+        "name": "Garnier Men Acno Fight Face Wash (300 g)",
+        "description": "Garnier Men Acno Fight, Anti Pimple with Salicylic Acid and Herba Repair Face Wash (300 g)",
+        "productImg": "-original-imagzgj3rrwcakr2.jpeg",
+        "rating": 4.5,
+        "category": "beauty",
+        "price": 758
+      },
+      {
+        "name": "USTRAA Beard Growth Oil - 35ml - More Beard Growth",
+        "description": "USTRAA Beard Growth Oil - 35ml - More Beard Growth, With Redensyl, 8 Natural Oils including Jojoba Oil, Vitamin E, Nourishment & Strengthening, No Harmful Chemicals Hair Oil  (35 ml)",
+        "productImg": "35-beardagc8ydavg9hzhz.jpeg",
+        "rating": 3.9,
+        "category": "beauty",
+        "price": 399
+      },
+      {
+        "name": "BOMBAY SHAVING COMPANY Charcoal Face Wash",
+        "description": "BOMBAY SHAVING COMPANY Charcoal Face Wash & Peel off Face Mask Combo for Men | Brightens Skin  (2 Items in the set)",
+        "productImg": "charcoal-face-p3f5q2ea.jpeg",
+        "rating": 4.1,
+        "category": "beauty",
+        "price": 568
+      },
+      {
+        "name": "Garnier Men John's Skincare Face Wash (190 g)",
+        "description": "Garnier Men John's Skincare Essentials|Turbo Bright Facewash,150g+PowerWhite Moisturiser,40g Face Wash  (190 g)",
+        "productImg": "-original-imags9k4fyzy9rhk.jpeg",
+        "rating": 4.5,
+        "category": "beauty",
+        "price": 568
+      },
+      {
+        "name": "BEARDO De-Tan Facewash For Men, | Tan Removal",
+        "description": "BEARDO De-Tan Facewash For Men, | Tan Removal | Oil Control Face Wash  (200 ml)",
+        "productImg": "200-de-t9n.jpeg",
+        "rating": 4.2,
+        "category": "beauty",
+        "price": 450
+      },
+      {
+        "name": "LOTUS HERBALS WhiteGlow Cleansing Skin Whitening face wash",
+        "description": "LOTUS HERBALS WhiteGlow 3-In-1 Deep Cleansing Skin Whitening Facial Foam, face wash, for all skin types Face Wash  (100 g)",
+        "productImg": "200-herbals-wza44sdyqsg27.jpeg",
+        "rating": 4.5,
+        "category": "beauty",
+        "price": 205
+      },
+      {
+        "name": "Pears Pure & Gentle Shower Gel, Super Saver XL Pump Bottle",
+        "description": "Pears Pure & Gentle Shower Gel, Super Saver XL Pump Bottle, Paraben free  (750 ml)",
+        "productImg": "-original-imahy2rqqfpjxhqz.jpeg",
+        "rating": 4.4,
+        "category": "beauty",
+        "price": 445
+      },
+      {
+        "name": "Dabur Gulabari Premium Rose Water 100% Natural",
+        "description": "Dabur Gulabari Premium Rose Water 100% Natural Men & Women  (1200 ml)",
+        "productImg": "gulabari-rose-mdhk.jpeg",
+        "rating": 4.5,
+        "category": "beauty",
+        "price": 387
+      },
+      {
+        "name": "POND's Bright Miracle Detox Facewash",
+        "description": "POND's Bright Miracle Detox Facewash with 10X Power of Charcoal Face Wash  (200 g)",
+        "productImg": "-original-imagdd3e5snx86ru.jpeg",
+        "rating": 4.3,
+        "category": "beauty",
+        "price": 545
+      },
+      {
+        "name": "Dot & Key Vitamin C + E Mask Dark Lips, Tinted Balm Cherry",
+        "description": "Dot & Key Vitamin C + E Mask with Shea Butter for Dry, Dark Lips, Tinted Balm Cherry  (Pack of: 1, 15 g)",
+        "productImg": "-original-imagmgyvssfytvwk.jpeg",
+        "rating": 4.1,
+        "category": "beauty",
+        "price": 295
+      },
+      {
+        "name": "HIMALAYA Anti-Hair Fall Bhringaraja Shampoo",
+        "description": "HIMALAYA Anti-Hair Fall Bhringaraja Shampoo  (650 ml)",
+        "productImg": "-650ml-himalaya-o.jpeg",
+        "rating": 4.3,
+        "category": "beauty",
+        "price": 689
+      },
+      {
+        "name": "SUNSILK Lusciously Thick & Long Shampoo",
+        "description": "SUNSILK Lusciously Thick & Long Shampoo, With Keratin & Yoghurt Protein  (1 L)",
+        "productImg": "-original-imagryerxughppfr.jpeg",
+        "rating": 4.4,
+        "category": "beauty",
+        "price": 950
+      },
+      {
+        "name": "WOW SKIN SCIENCE Onion Hair Oil for Hair Growth",
+        "description": "WOW SKIN SCIENCE Onion Hair Oil for Hair Growth and Hair Fall Control Hair Oil  (200 ml)",
+        "productImg": "-original-imagxy5rtjhhh6nr.jpeg",
+        "rating": 4.2,
+        "category": "beauty",
+        "price": 599
+      },
+      {
+        "name": "Lotus Botanicals Vitamin C Skin Brightening",
+        "description": "Lotus Botanicals Vitamin C Skin Brightening - 180ml Face Wash  (180 ml)",
+        "productImg": "-original-imagpe8bewcpk.jpeg",
+        "rating": 4.3,
+        "category": "beauty",
+        "price":495 
+      },
+      {
+        "name": "HAIR & CARE Damage Repair Non-Sticky Hair Oil with Aloe Vera",
+        "description": "HAIR & CARE Damage Repair Non-Sticky Hair Oil with Aloe Vera, Olive Oil & Green Tea Hair Oil  (1000 ml)",
+        "productImg": "damage-repair-non-sticun.jpeg",
+        "rating": 4.5,
+        "category": "beauty",
+        "price": 570
+      },
+      {
+        "name": "JOVEES De Tan Face Wash  (120 ml)",
+        "description": "JOVEES De Tan Face Wash  (120 ml)",
+        "productImg": "100-de-tan-face-wajqj.jpeg",
+        "rating": 4.3,
+        "category": "beauty",
+        "price": 225
+      },
+      {
+        "name": "boAt Bassheads 100 Wired Headset",
+        "description": "boAt Bassheads 100 Wired Headset  (Black, In the Ear)",
+        "productImg": "bassheads-100-boatk.jpeg",
+        "rating": 4.3,
+        "category": "electronics-earphones",
+        "price": 999
+      },
+      {
+        "name": "ZEBRONICS ZEB-BRO, Phone/Tablet Wired Headset",
+        "description": "ZEBRONICS ZEB-BRO, With In-Line MiC, 3.5mm Jack, 10mm drivers, Compatible for Phone/Tablet Wired Headset  (Black, In the Ear)",
+        "productImg": "zeb-bro-zebronics-origpnx.jpeg",
+        "rating": 3.8,
+        "category": "electronics-earphones",
+        "price": 299
+      },
+      {
+        "name": "Blaupunkt EM-06 Earphone, HD Sound with Noise Isolation Wired",
+        "description": "Blaupunkt EM-06 Earphone with Mic and Deep Bass ,HD Sound with Noise Isolation Wired Headset  (Asphalt Black, In the Ear)",
+        "productImg": "em-06-wired-earphone-with-mzfddqx96k.jpeg",
+        "rating": 4.1,
+        "category": "electronics-earphones",
+        "price": 999
+      },
+      {
+        "name": "boAt Airdopes Bluetooth Headset (True Wireless)",
+        "description": "boAt Airdopes Supreme w/ 4 Mics AI ENx Tech, 50 HRS Playback,Multi Point Connectivity Bluetooth Headset  (Classic Black, True Wireless)",
+        "productImg": "-original-imagz5z4cknamu9d.jpeg",
+        "rating": 4.1,
+        "category": "electronics-earphones",
+        "price": 1999
+      },
+      {
+        "name": "Boult Y1 with Zen Bluetooth Headset (Black, True Wireless)",
+        "description": "Boult Y1 with Zen ENC Mic, 50H Battery, Fast Charging, Pro+ Calling, Knurled Design Bluetooth Headset  (Black, True Wireless)",
+        "productImg": "-original-imagtvqpkzkedv8p.jpeg",
+        "rating": 4.5,
+        "category": "electronics-earphones",
+        "price": 1799
+      },
+      {
+        "name": "PROWARP PRODART Original Wired Headset (White, In the Ear)",
+        "description": "PROWARP PRODART Original EHS61 Deep Bass with Sound Cancellation Wired Headset  (White, In the Ear)",
+        "productImg": "prodart-sam-sungf3rfz9v.jpeg",
+        "rating": 4,
+        "category": "electronics-earphones",
+        "price": 699
+      },
+      {
+        "name": "boAt Nirvana Ion HIFI5 Bluetooth Headset",
+        "description": "boAt Nirvana Ion 32dB Active Noise Cancellation, 120HRS, Bionic Mode, HIFI5 Bluetooth Headset  (Crystal Black, True Wireless)",
+        "productImg": "-original-imagwmkfnyabtwhb.jpeg",
+        "rating": 4.1,
+        "category": "electronics-earphones",
+        "price": 2199
+      },
+      {
+        "name": "boAt Bassheads 228 Wired Headset (In the Ear)",
+        "description": "boAt Bassheads 228 Wired Headset  (Forest Green, In the Ear)",
+        "productImg": "bassheads-228-boat-ong.jpeg",
+        "rating": 4.3,
+        "category": "electronics-earphones",
+        "price": 999
+      },
+      {
+        "name": "netpaa Wired Type-C Basic Earphone OD1027 Wired Headset",
+        "description": "netpaa Wired Type-C Basic Earphone OD1027 Wired Headset  (Compatible for Oppo Models, In the Ear)",
+        "productImg": "wired-type-c-basicna.jpeg",
+        "rating": 4.5,
+        "category": "electronics-earphones",
+        "price": 799
+      },
+      {
+        "name": "Proxelle MZX147 In-Ear Metal Earphone Wired Headset",
+        "description": "Proxelle MZX147 In-Ear Metal Earphone Wired Headset  (Black, In the Ear)",
+        "productImg": "mzx147-in-earhar.jpeg",
+        "rating": 3.8,
+        "category": "electronics-earphones",
+        "price": 799
+      },
+      {
+        "name": "OnePlus Bullets Wireless Z2 Bluetooth Headset",
+        "description": "OnePlus Bullets Wireless Z2 Bluetooth Headset  (Magico Black, In the Ear)",
+        "productImg": "buds-z2-onepdv.jpeg",
+        "rating": 4.3,
+        "category": "electronics-earphones",
+        "price": 1799
+      },
+      {
+        "name": "boAt Rockerz 255 Pro+ /258 Pro+ Bluetooth Headset",
+        "description": "boAt Rockerz 255 Pro+ /258 Pro+ with ASAP Charge and upto 60 Hours Playback Bluetooth Headset  (Navy Blue, In the Ear)",
+        "productImg": "-original-imagzuzzrfgytsfz.jpeg",
+        "rating": 4.5,
+        "category": "electronics-earphones",
+        "price": 1199
       }
-
+      
 ]
