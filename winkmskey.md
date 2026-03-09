@@ -1,3 +1,28 @@
+
+      <h1 id="microsoft-kms-activation">Microsoft KMS Activation</h1>
+
+<h2 id="usage">Usage</h2>
+<p>Start a Command Prompt as an <code class="language-plaintext highlighter-rouge">Administrator</code>.</p>
+
+<h3 id="windows">Windows</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>slmgr.vbs -ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr.vbs -skms kms.srv.crsoo.com
+slmgr.vbs -ato
+</code></pre></div></div>
+
+<h3 id="office">Office</h3>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cd C:\Program Files\Microsoft Office\Office15
+cscript ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript ospp.vbs /sethst:kms.srv.crsoo.com
+cscript ospp.vbs /act
+</code></pre></div></div>
+
+<h2 id="gvlks">GVLKs</h2>
+<p>Authoritative source on Microsoft’s <a href="https://technet.microsoft.com/en-us/library/jj612867">TechNet</a> and <a href="https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys">Windows Server Activation Guide</a>.</p>
+
+<h3 id="windows-11">Windows 11</h3>
+
+
 <table>
   <thead>
     <tr>
